@@ -7,6 +7,9 @@
     "start": "NODE_ENV=prod node index.js",
     "dev": "nodemon index.js"
   },
+  "engines": {
+    "node": ">=13"
+  },
   "type": "module",
   "author": "Eleyn Kennedy",
   "license": "ISC",
